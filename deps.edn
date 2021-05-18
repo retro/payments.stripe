@@ -1,0 +1,6 @@
+{:paths ["src"]
+ :deps {integrant/integrant {:mvn/version "0.8.0"}
+        http-kit/http-kit {:mvn/version "2.3.0"}
+        diehard/diehard {:mvn/version "0.9.4"}
+        org.clojure/data.json {:mvn/version "1.0.0"}
+        com.stripe/stripe-java {:mvn/version "19.23.0"}}}
